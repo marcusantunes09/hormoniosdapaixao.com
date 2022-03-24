@@ -33,6 +33,7 @@ body {
   margin: auto;
   position: relative;
   color: #4267b2;
+  background-color: white;
 }
 
 .fb-comments-header {
@@ -41,7 +42,7 @@ body {
 }
 
 .fb-comments-header span {
-  color: #000;
+  color: #000000;
   font-weight: 700;
   font-size: 0.9em;
 }
