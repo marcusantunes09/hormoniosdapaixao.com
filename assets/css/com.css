@@ -215,13 +215,6 @@ tr {
   }
 }
 
-@media and (max-width: 768px) {
-  selection, aside {
-    width: 100%;
-    padding: 0;
- }
-}
-    
 .a-btn {
       text-decoration: none;
       -webkit-font-smoothing: antialiased;
